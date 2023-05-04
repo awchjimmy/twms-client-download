@@ -19,12 +19,15 @@
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch15to17.exe|17|
 |http://203.66.143.3:80/maplestory/download/MaplePatch17to18.exe|18|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch17to18.exe|18|
+|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch13to19.exe|19|
 |http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch13to19.exe|19|
+|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch14to19.exe|19|
 |http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch17to19.exe|19|
 |http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch18to19.exe|19|
 |http://203.66.143.3:80/maplestory/download/MaplePatch18to19.exe|19|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch18to19.exe|19|
 |http://203.66.143.4:80/maplestory/download/MaplePatch18to19.exe|19|
+|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch18to19.exe|19|
 |http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch20to21.exe|21|
 |http://203.66.143.4:80/maplestory/download/MaplePatch20to21.exe|21|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch20to21.exe|21|
