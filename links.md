@@ -6,6 +6,7 @@
 |ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v022.exe||
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_v022.exe||
 |http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe|274.5MB info from xunlei, not downloadable|
+|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_025.exe||
 |http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe|313.52MB info from xunlei, not downloadable|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_036.exe||
 |**Patch**|
