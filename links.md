@@ -1,7 +1,7 @@
 |link|desc|
 |----|----|
 |**Setup**|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe|Not sure which version|
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe|Not sure which version, 2006-04-24 info from wayback machine|
 |ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v013.exe||
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe||
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe||
@@ -45,5 +45,5 @@
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch47to48.exe||
 |**Test Server**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe|Not sure which version|
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe|Not sure which version, 2007-05-16 info from wayback machine|
 
