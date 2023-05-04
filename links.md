@@ -59,5 +59,6 @@
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch47to48.exe||
 |**Test Server**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|
+|http://pu.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe|Not sure which version, 2007-05-14 info from wayback machine|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe|Not sure which version, 2007-05-16 info from wayback machine|
 
