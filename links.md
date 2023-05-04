@@ -32,4 +32,5 @@
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch34to35.exe||
 |**Test Server**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe||
 
