@@ -6,6 +6,7 @@
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_v022.exe||
 |http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe|274.5MB info from xunlei, not downloadable|
 |http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe|313.52MB info from xunlei, not downloadable|
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_036.exe||
 |**Patch**|
 |http://203.66.143.3:80/maplestory/download/MaplePatch17to18.exe||
 |http://203.66.143.3:80/maplestory/download/MaplePatch18to19.exe||
