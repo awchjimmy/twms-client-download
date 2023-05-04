@@ -1,6 +1,7 @@
 |link|desc|
 |----|----|
 |**Setup**|
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe|Not sure which version|
 |ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v013.exe||
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe||
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe||
@@ -36,7 +37,13 @@
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch33to35.exe||
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch34to35.exe||
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch37to38.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch40to41.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch42to43.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch44to45.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch45to46.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch46to48.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch47to48.exe||
 |**Test Server**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe|Not sure which version|
 
