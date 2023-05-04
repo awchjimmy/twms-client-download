@@ -2,6 +2,7 @@
 |----|----|
 |**Setup**|
 |ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v013.exe||
+|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe||
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe||
 |ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v022.exe||
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_v022.exe||
