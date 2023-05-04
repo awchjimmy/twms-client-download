@@ -1,6 +1,7 @@
 |link|desc|
 |----|----|
 |**Setup**|
+|ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v022.exe||
 |http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe|
 |http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe|
 |**Patch**|
