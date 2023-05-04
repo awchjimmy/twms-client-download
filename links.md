@@ -28,8 +28,14 @@
 |http://203.66.143.4:80/maplestory/download/MaplePatch23to24.exe||
 |http://dl3.gamania.com:80/maplestory/download/MaplePatch23to24.exe||
 |http://dl3.gamania.com:80/maplestory/download/MaplePatch24to25.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch26to27.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch27to28.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch28to29.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch32to33.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch33to35.exe||
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch33to35.exe||
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch34to35.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch37to38.exe||
 |**Test Server**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe||
