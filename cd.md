@@ -7,7 +7,7 @@
 |聖誕許願樹|24*|
 |極地雪戰包|24*|
 |新星報喜包|25|3rd Job|
-|||2006, nProtect GameGuard|
+||26|2006, nProtect GameGuard, Guild, Gachapon|
 |幸福童樂會|27|Wedding|
 |新星勢力|28|
 |新星有扇包|32|
