@@ -14,14 +14,19 @@
 |http://203.66.143.3:80/maplestory/download/MaplePatch17to18.exe||
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch17to18.exe||
 |http://203.66.143.3:80/maplestory/download/MaplePatch18to19.exe||
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch18to19.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch18to19.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch20to21.exe||
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch20to21.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch21to22.exe||
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch21to22.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch22to23.exe||
 |http://dl3.gamania.com:80/maplestory/download/MaplePatch22to23.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch23to24.exe||
 |http://dl3.gamania.com:80/maplestory/download/MaplePatch23to24.exe||
 |http://dl3.gamania.com:80/maplestory/download/MaplePatch24to25.exe||
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch33to35.exe||
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch34to35.exe||
 |**Test Server**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|
 
