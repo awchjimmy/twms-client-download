@@ -11,7 +11,9 @@
 |http://203.66.143.4:80/maplestory/download/MaplePatch20to21.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch21to22.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch22to23.exe||
+|http://dl3.gamania.com:80/maplestory/download/MaplePatch22to23.exe||
 |http://203.66.143.4:80/maplestory/download/MaplePatch23to24.exe||
+|http://dl3.gamania.com:80/maplestory/download/MaplePatch23to24.exe||
 |**Test Server**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|
 
