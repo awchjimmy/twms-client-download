@@ -1,7 +1,7 @@
 link,desc
-setup
-http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe
-patch
+setup,
+http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe,
+patch,
 http://203.66.143.3:80/maplestory/download/MaplePatch17to18.exe,https://web.archive.org/web/20051217165731*/http://203.66.143.3:80/maplestory/download/MaplePatch17to18.exe
-test server
-http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe
+test server,
+http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe,
