@@ -1,7 +1,7 @@
 |Title|Version|Desc.|
 |----|----|----|
 |冒險的起點|5|Close Beta|
-|永浴愛河包|13|Cash Shop|
+|永浴愛河包|13|Cash Shop, Kerning PQ, Orbis|
 |全民爭寵包|17|
 |超級新星包|20|
 |聖誕許願樹|24*|
