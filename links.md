@@ -1,6 +1,7 @@
 |link|desc|
 |----|----|
 |**Setup**|
+|ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v013.exe||
 |ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v022.exe||
 |http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe|274.5MB info from xunlei, not downloadable|
 |http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe|313.52MB info from xunlei, not downloadable|
