@@ -11,6 +11,8 @@
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_025.exe||
 |http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe|313.52MB info from xunlei, not downloadable|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_036.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_043.exe||
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_046.exe||
 |**Patch**|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch13to17.exe||
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch14to17.exe||
