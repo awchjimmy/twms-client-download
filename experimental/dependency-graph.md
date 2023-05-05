@@ -10,12 +10,6 @@ stateDiagram-v2
     v14 --> v19
     v17 --> v19
     v18 --> v19
-```
-
----
-
-```mermaid
-stateDiagram-v2
     v20 --> v21
     v21 --> v22
     v22 --> v23
