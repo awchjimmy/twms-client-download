@@ -2,6 +2,7 @@
 |----|----|
 |**Setup**|
 |ftp://61.64.127.90/Gamania/maplestory/gamesource/maplestory.exe|Close Beta, info from so-net website|
+|ftp://61.64.127.90/Gamania/maplestory/gamesource/MapleStory_OB_v008.exe||
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe|13|
 |http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe|19|
 |ftp://61.64.127.90/Gamania/maplestory/gamesource/setup/MapleStory_v019.exe|19, 242M info from so-net website|
