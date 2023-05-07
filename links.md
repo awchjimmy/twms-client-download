@@ -1,17 +1,18 @@
 |link|desc|
 |----|----|
 |**Setup**|
+|ftp://61.64.127.90/Gamania/maplestory/gamesource/maplestory.exe|Close Beta, info from so-net website|
+|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe|13|
+|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe|19|
+|ftp://61.64.127.90/Gamania/maplestory/gamesource/setup/MapleStory_v019.exe|19, 242M info from so-net website|
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_v022.exe|22, 266M info from gdowntown.gigigaga.com ftp server|
+|http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe|25, 274.5MB info from xunlei|
+|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_025.exe|25|
+|http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe|26, 313.52MB info from xunlei|
+|http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_036.exe|36|
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_043.exe|43|
+|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_046.exe|46|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe|Not sure which version, 2006-04-24 info from wayback machine|
-|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe||
-|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe||
-|ftp://61.64.127.90/Gamania/maplestory/gamesource/setup/MapleStory_v019.exe|242M info from so-net website|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_v022.exe|266M info from gdowntown.gigigaga.com ftp server|
-|http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe|274.5MB info from xunlei|
-|http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_025.exe||
-|http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe|313.52MB info from xunlei|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_036.exe||
-|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_043.exe||
-|http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_046.exe||
 |**Patch**|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch13to17.exe|17|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch14to17.exe|17|
