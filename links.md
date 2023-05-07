@@ -92,8 +92,9 @@
 |**Other**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_003.exe|T03|
 |http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_004.exe|T04|
-|http://tw.dl.gamania.com/maplestory/download/MaplePatchT3to4||
+|http://tw.dl.gamania.com/maplestory/download/MaplePatchT3to4.exe||
 |http://tw.dl.gamania.com/maplestory/download/MaplePatchT4to5.exe||
+|http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_007.exe||
 |http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe|T22|
 |http://pu.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe|Not sure which version, 2007-05-14 info from wayback machine|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_TestServer.exe|Not sure which version, 2007-05-16 info from wayback machine|
