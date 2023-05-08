@@ -3,16 +3,6 @@
 |link|desc|from|to|
 |----|----|----|----|
 |**Patch**|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch39to40.exe|40|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch39to40.exe|40|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch40to41.exe|41|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch40to41.exe|41|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch40to41.exe|41|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch42to43.exe|43|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch42to43.exe|43|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch44to45.exe|45|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch44to45.exe|45|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch44to45.exe|45|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch45to46.exe|46|
 |http://tw.dl.gamania.com:80/maplestory/download/MaplePatch45to46.exe|46|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch46to48.exe|48|
