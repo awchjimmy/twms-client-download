@@ -3,14 +3,6 @@
 |link|desc|from|to|
 |----|----|----|----|
 |**Patch**|
-|http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch20to21.exe|21|
-|http://203.66.143.4:80/maplestory/download/MaplePatch20to21.exe|21|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch20to21.exe|21|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch20to21.exe|21|
-|http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch21to22.exe|22|
-|http://203.66.143.4:80/maplestory/download/MaplePatch21to22.exe|22|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch21to22.exe|22|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch21to22.exe|22|
 |http://203.66.143.4:80/maplestory/download/MaplePatch22to23.exe|23|
 |http://dl3.gamania.com:80/maplestory/download/MaplePatch22to23.exe|23|
 |http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch23to24.exe|24|
