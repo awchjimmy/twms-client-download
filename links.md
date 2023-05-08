@@ -3,15 +3,6 @@
 |link|desc|from|to|
 |----|----|----|----|
 |**Patch**|
-|http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch23to25.exe|25|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch23to25.exe|25|
-|http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch24to25.exe|25|
-|http://dl3.gamania.com:80/maplestory/download/MaplePatch24to25.exe|25|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch26to27.exe|27|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch27to28.exe|28|
-|http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch27to28.exe|28|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch27to28.exe|28|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch27to28.exe|28|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch28to29.exe|29|
 |http://tw.dl.gamania.com:80/maplestory/download/MaplePatch28to29.exe|29|
 |http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch29to30.exe|30|
