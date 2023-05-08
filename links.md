@@ -1,14 +1,4 @@
 
-### Patch
-|link|desc|from|to|
-|----|----|----|----|
-|**Patch**|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch45to46.exe|46|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch45to46.exe|46|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch46to48.exe|48|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch47to48.exe|48|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch47to48.exe|48|
-
 ### Other
 |link|desc|
 |----|----|
