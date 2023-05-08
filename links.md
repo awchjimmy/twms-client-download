@@ -17,11 +17,11 @@
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe|Not sure which version, 2006-04-24 info from wayback machine|
 
 ### Patch
-|link|desc|
-|----|----|
+|link|desc|from|to|
+|----|----|----|----|
 |**Patch**|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch13to17.exe|17|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch14to17.exe|17|
+|[gdowntown.giga.net.tw](http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch13to17.exe)|17|13|17|
+|[http://gdowntown.giga.net.tw](http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch14to17.exe)|17|14|17|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch15to17.exe|17|
 |http://yesterday66.myweb.hinet.net/050908/MaplePatch17to18.exe|18|
 |http://203.66.143.3:80/maplestory/download/MaplePatch17to18.exe|18|
