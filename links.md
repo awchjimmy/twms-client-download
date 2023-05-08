@@ -3,8 +3,6 @@
 |link|desc|
 |----|----|
 |**Other**|
-|http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_003.exe|T03|
-|http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_004.exe|T04|
 |http://tw.dl.gamania.com/maplestory/download/MaplePatchT3to4.exe||
 |http://tw.dl.gamania.com/maplestory/download/MaplePatchT4to5.exe||
 |http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_007.exe||
