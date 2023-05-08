@@ -3,17 +3,6 @@
 |link|desc|from|to|
 |----|----|----|----|
 |**Patch**|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch33to35.exe|35|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch33to35.exe|35|
-|http://tcrc.dl.dler.org:80/Yesterday/v/gamania/Maple/MaplePatch33to35.exe|35|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch33to35.exe|35|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch33to35.exe|35|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch34to35.exe|35|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch34to35.exe|35|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch35to36.exe|36|
-|http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch37to38.exe|38|
-|http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch37to38.exe|38|
-|http://tw.dl.gamania.com:80/maplestory/download/MaplePatch37to38.exe|38|
 |http://pu.dl.dler.org:80/v/gamania/Maple/MaplePatch39to40.exe|40|
 |http://tw.dl.gamania.com:80/maplestory/download/MaplePatch39to40.exe|40|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch40to41.exe|41|
