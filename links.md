@@ -20,9 +20,9 @@
 |link|desc|from|to|
 |----|----|----|----|
 |**Patch**|
-|[gdowntown.giga.net.tw](http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch13to17.exe)|17|13|17|
-|[http://gdowntown.giga.net.tw](http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch14to17.exe)|17|14|17|
-|http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch15to17.exe|17|
+|[http://gdowntown.giga.net.tw](http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch13to17.exe)||13|17|
+|[http://gdowntown.giga.net.tw](http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch14to17.exe)||14|17|
+|[http://gdowntown.giga.net.tw](http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch15to17.exe)||15|17|
 |http://yesterday66.myweb.hinet.net/050908/MaplePatch17to18.exe|18|
 |http://203.66.143.3:80/maplestory/download/MaplePatch17to18.exe|18|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch17to18.exe|18|
