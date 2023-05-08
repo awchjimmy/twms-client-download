@@ -1,3 +1,4 @@
+### Setup
 |link|desc|
 |----|----|
 |**Setup**|
@@ -14,6 +15,10 @@
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_043.exe|43|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_046.exe|46|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe|Not sure which version, 2006-04-24 info from wayback machine|
+
+### Patch
+|link|desc|
+|----|----|
 |**Patch**|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch13to17.exe|17|
 |http://gdowntown.giga.net.tw:80/soft-world/gamania/MaplePatch14to17.exe|17|
@@ -91,6 +96,10 @@
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch46to48.exe|48|
 |http://giga.dl.dler.org:80/v/gamania/Maple/MaplePatch47to48.exe|48|
 |http://tw.dl.gamania.com:80/maplestory/download/MaplePatch47to48.exe|48|
+
+### Other
+|link|desc|
+|----|----|
 |**Other**|
 |http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_003.exe|T03|
 |http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_004.exe|T04|
