@@ -1,32 +1,32 @@
-link,version,desc
-ftp://61.64.127.90/Gamania/maplestory/gamesource/maplestory.exe,Close Beta,info from so-net website
-ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v005.exe,5,186MB
-ftp://61.64.127.90/Gamania/maplestory/gamesource/MapleStory_OB_v008.exe,8,
-ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_OB_v008.exe,8,
-http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe,13,
-http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe,19,
-ftp://61.64.127.90/Gamania/maplestory/gamesource/setup/MapleStory_v019.exe,19,242M info from so-net website
-http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_v022.exe,22,266M info from gdowntown.gigigaga.com ftp server
-http://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v022.exe,22,
-http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe,25,274.5MB info from xunlei
-http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_025.exe,25,
-http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe,26,313.52MB info from xunlei
-http://tw.dl.gamania.com/maplestory/download/MapleStory_v027.exe,27,349MB
-http://tw.dl.gamania.com/maplestory/download/MapleStory_v028.exe,28,358MB
-http://tw.dl.gamania.com/maplestory/download/MapleStory_V029.exe,29,358MB
-http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_035.exe,35,402M
-http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_036.exe,36,413M
-http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_036.exe,36,
-http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_038.exe,38,440M
-http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_039.exe,39,496M
-http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_043.exe,43,
-http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_045.exe,45,633M
-http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_046.exe,46,
-http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe,unknown,2006-04-24 info from wayback machine
-testserver,,
-http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_003.exe,T03,
-http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_004.exe,T04,
-http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_007.exe,T07,
-http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe,T22,
-http://pu.dl.dler.org/v/gamania/Maple/MapleStory_TestServer.exe,unknown,2007-05-14 info from wayback machine
-http://giga.dl.dler.org/v/gamania/Maple/MapleStory_TestServer.exe,unknown,2007-05-16 info from wayback machine
+link,version,desc,reference_date
+ftp://61.64.127.90/Gamania/maplestory/gamesource/maplestory.exe,Close Beta,info from so-net website,
+ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v005.exe,5,186MB,
+ftp://61.64.127.90/Gamania/maplestory/gamesource/MapleStory_OB_v008.exe,8,,
+ftp://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_OB_v008.exe,8,,
+http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/MapleStory-v013.exe,13,,
+http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_019.exe,19,,
+ftp://61.64.127.90/Gamania/maplestory/gamesource/setup/MapleStory_v019.exe,19,242M info from so-net website,
+http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_v022.exe,22,266M info from gdowntown.gigigaga.com ftp server,
+http://gdowntown.gigigaga.com/soft-world/gamania/MapleStory_v022.exe,22,,
+http://dl3.gamania.com/maplestory/download/MapleStory_v025.exe,25,274.5MB info from xunlei,
+http://yesterday.cdpa.nsysu.edu.tw:80/v/gamania/Maple/MapleStory_025.exe,25,,
+http://dl3.gamania.com/maplestory/download/MapleStory_v026.exe,26,313.52MB info from xunlei,
+http://tw.dl.gamania.com/maplestory/download/MapleStory_v027.exe,27,349MB,2006-04-05
+http://tw.dl.gamania.com/maplestory/download/MapleStory_v028.exe,28,358MB,2006-04-24
+http://tw.dl.gamania.com/maplestory/download/MapleStory_V029.exe,29,358MB,2006-04-29
+http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_035.exe,35,402M,
+http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_036.exe,36,413M,
+http://gdowntown.giga.net.tw:80/soft-world/gamania/MapleStory_036.exe,36,,
+http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_038.exe,38,440M,
+http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_039.exe,39,496M,
+http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_043.exe,43,,
+http://gdowntown.gigigaga.com:80/soft-world/gamania/MapleStory_045.exe,45,633M,
+http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory_046.exe,46,,
+http://giga.dl.dler.org:80/v/gamania/Maple/MapleStory.exe,unknown,2006-04-24 info from wayback machine,
+testserver,,,
+http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_003.exe,T03,,
+http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_004.exe,T04,,
+http://tw.dl.gamania.com/maplestory/download/MapleStory_TestServer_007.exe,T07,,
+http://tw.dl.gamania.com/maplestory/download/MapleStoryT_022.exe,T22,,
+http://pu.dl.dler.org/v/gamania/Maple/MapleStory_TestServer.exe,unknown,2007-05-14 info from wayback machine,
+http://giga.dl.dler.org/v/gamania/Maple/MapleStory_TestServer.exe,unknown,2007-05-16 info from wayback machine,
